@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kvg910
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on < _well, I don't have any active project for now _>
 - 📫 How to reach me via my email address: kvg910@gmail.com
 
 <!---
